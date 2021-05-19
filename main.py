@@ -4,11 +4,12 @@ import plotly.express as px
 df = pd. \
     read_csv('voting.csv', header=0). \
     fillna(
-    value={'Year': -1, 'Presidential Canidate': "Votes Not Cast", 'Party': "No Political Party", 'Electoral Votes': 0}). \
+    value={'Year': -1, 'Presidential Candidate': "Votes Not Cast", 'Party': "No Political Party",
+           'Electoral Votes': 0}). \
     groupby(['Year', 'Party']). \
-    agg({'Electoral Votes': ['sum'], 'Presidential Canidate': ', '.join}). \
+    agg({'Electoral Votes': ['sum'], 'Presidential Candidate': ', '.join}). \
     reset_index(). \
-    set_axis(["Year", "Party", "Electoral Votes", "Presidential Canidates"], axis=1)
+    set_axis(["Year", "Party", "Electoral Votes", "Presidential Candidates"], axis=1)
 df = df[df.Party.duplicated(keep=False)]
 
 colormap = {
@@ -20,6 +21,6 @@ graph = px.line(df,
                 y='Electoral Votes',
                 color='Party',
                 hover_name='Party',
-                hover_data=['Presidential Canidates'],
+                hover_data=['Presidential Candidates'],
                 color_discrete_map=colormap)
 graph.write_html('index.html')
