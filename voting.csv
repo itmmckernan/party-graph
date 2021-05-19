@@ -1,0 +1,186 @@
+Year,Presidential Canidate,Party,Electoral Votes
+1789,George Washington,Independent,69
+1789,John Adams,Independent,34
+1789,Scattering,Independent,35
+1789,Votes not cast,,8
+1792,George Washington,Federalist,132
+1792,John Adams,Federalist,77
+1792,George Clinton,Anti-Federalist,50
+1792,Thomas Jefferson,Anti-Federalist,4
+1792,Aaron Burr,Anti-Federalist,1
+1792,Votes not cast,,6
+1796,John Adams,Federalist,71
+1796,Thomas Jefferson,Dem.-Rep.,68
+1796,Thomas Pinckney,Federalist,59
+1796,Aaron Burr,Dem.-Rep.,30
+1796,Scattering,,48
+1800,Thomas Jefferson,Dem.-Rep.,73
+1800,Aaron Burr,Dem.-Rep.,73
+1800,John Adams,Federalist,65
+1800,Charles C. Pinckney,Federalist,64
+1800,John Jay,Federalist,1
+1804,Thomas Jefferson,Dem.-Rep.,162
+1804,Charles C. Pinckney,Federalist,14
+1808,James Madison,Dem.-Rep.,122
+1808,Charles C. Pinckney,Federalist,47
+1808,George Clinton,Dem.-Rep.,6
+1808,Votes not cast,,1
+1812,James Madison,Dem.-Rep.,128
+1812,De Witt Clinton,Federalist,89
+1812,Votes not cast,,1
+1816,James Monroe,Dem.-Rep.,183
+1816,Rufus King,Federalist,34
+1816,Votes not cast,,4
+1820,James Monroe,Dem-Rep,231
+1820,John Quincy Adams,Independent,1
+1820,Votes not cast,,3
+1824,John Quincy Adams,Independent,84
+1824,Andrew Jackson,Independent,99
+1824,William H. Crawford,Independent,41
+1824,Henry Clay,Independent,37
+1828,Andrew Jackson,Democratic,178
+1828,John Quincy Adams,Natl. Rep.,83
+1832,Andrew Jackson,Democratic,219
+1832,Henry Clay,Natl. Rep.,49
+1832,John Floyd,Independent,11
+1832,William Wirt,Antimasonic,7
+1832,Votes not cast,,2
+1836,Martin Van Buren,Democratic,170
+1836,William H. Harrison,Whig,73
+1836,Hugh L. White,Whig,26
+1836,Daniel Webster,Whig,14
+1836,W. P. Mangum,Independent,11
+1840,William H. Harrison,Whig,234
+1840,Martin Van Buren,Democratic,60
+1844,James K. Polk,Democratic,170
+1844,Henry Clay,Whig,105
+1848,Zachary Taylor,Whig,163
+1848,Lewis Cass,Democratic,127
+1852,Franklin Pierce,Democratic,254
+1852,Winfield Scott,Whig,42
+1856,James Buchanan,Democratic,174
+1856,John C. Fremont,Republican,114
+1856,Millard Fillmore,American,8
+1860,Abraham Lincoln,Republican,180
+1860,John C. Breckinridge,Democratic,72
+1860,John Bell,Const. Union,39
+1860,Stephen A. Douglas,Democratic,12
+1864,Abraham Lincoln,Union,212
+1864,George B. McClellan,Democratic,21
+1868,Ulysses S. Grant,Republican,214
+1868,Horatio Seymour,Democratic,80
+1868,Votes not counted,,23
+1872,Ulysses S. Grant,Republican,286
+1872,Horace Greeley,"Dem., Liberal Rep.",0
+1872,Thomas A. Hendricks,Democratic,42
+1872,B. Gratz Brown,"Dem., Liberal Rep.",18
+1872,Charles J. Jenkins,Democratic,2
+1872,David Davis,Democratic,1
+1872,Votes not counted,,17
+1876,Rutherford B. Hayes,Republican,185
+1876,Samuel J. Tilden,Democratic,184
+1876,Peter Cooper,Greenback,0
+1880,James A. Garfield,Republican,214
+1880,Winfield S. Hancock,Democratic,155
+1880,James B. Weaver,Greenback,0
+1884,Grover Cleveland,Democratic,219
+1884,James G. Blaine,Republican,182
+1884,Benjamin F. Butler,Greenback,0
+1884,John P. St. John,Prohibition,0
+1888,Benjamin Harrison,Republican,233
+1888,Grover Cleveland,Democratic,168
+1888,Clinton B. Fisk,Prohibition,0
+1888,Alson J. Streeter,Union Labor,0
+1892,Grover Cleveland,Democratic,277
+1892,Benjamin Harrison,Republican,145
+1892,James B. Weaver,People's,22
+1892,John Bidwell,Prohibition,0
+1896,William McKinley,Republican,271
+1896,William J. Bryan,"Dem., People's",176
+1896,John M. Palmer,Natl. Dem.,0
+1896,Joshua Levering,Prohibition,0
+1900,William McKinley,Republican,292
+1900,William J. Bryan,"Dem., People's",155
+1900,Eugene V. Debs,Social Democratic,0
+1904,Theodore Roosevelt,Republican,336
+1904,Alton B. Parker,Democratic,140
+1904,Eugene V. Debs,Socialist,0
+1908,William H. Taft,Republican,321
+1908,William J. Bryan,Democratic,162
+1908,Eugene V. Debs,Socialist,0
+1912,Woodrow Wilson,Democratic,435
+1912,Theodore Roosevelt,Progressive,88
+1912,William H. Taft,Republican,8
+1912,Eugene V. Debs,Socialist,0
+1916,Woodrow Wilson,Democratic,277
+1916,Charles E. Hughes,Republican,254
+1916,A. L. Benson,Socialist,0
+1920,Warren G. Harding,Republican,404
+1920,James M. Cox,Democratic,127
+1920,Eugene V. Debs,Socialist,0
+1924,Calvin Coolidge,Republican,382
+1924,John W. Davis,Democratic,136
+1924,Robert M. LaFollette,"Progressive, Socialist",13
+1928,Herbert Hoover,Republican,444
+1928,Alfred E. Smith,Democratic,87
+1928,Norman Thomas,Socialist,0
+1932,Franklin D. Roosevelt,Democratic,472
+1932,Herbert Hoover,Republican,59
+1932,Norman Thomas,Socialist,0
+1936,Franklin D. Roosevelt,Democratic,523
+1936,Alfred M. Landon,Republican,8
+1936,Norman Thomas,Socialist,0
+1940,Franklin D. Roosevelt,Democratic,449
+1940,Wendell L. Willkie,Republican,82
+1940,Norman Thomas,Socialist,0
+1944,Franklin D. Roosevelt,Democratic,432
+1944,Thomas E. Dewey,Republican,99
+1944,Norman Thomas,Socialist,0
+1948,Harry S. Truman,Democratic,303
+1948,Thomas E. Dewey,Republican,189
+1948,J. Strom Thurmond,States' Rights Dem.,39
+1948,Henry A. Wallace,Progressive,0
+1948,Norman Thomas,Socialist,0
+1952,Dwight D. Eisenhower,Republican,442
+1952,Adlai E. Stevenson,Democratic,89
+1956,Dwight D. Eisenhower,Republican,457
+1956,Adlai E. Stevenson,Democratic,73
+1960,John F. Kennedy21,Democratic,303
+1960,Richard M. Nixon,Republican,219
+1964,Lyndon B. Johnson,Democratic,486
+1964,Barry M. Goldwater,Republican,52
+1968,Richard M. Nixon,Republican,301
+1968,Hubert H. Humphrey,Democratic,191
+1968,George C. Wallace,American Independent,46
+1972,Richard M. Nixon23,Republican,520
+1972,George McGovern,Democratic,17
+1972,John G. Schmitz,American,0
+1976,Jimmy Carter,Democratic,297
+1976,Gerald R. Ford,Republican,240
+1976,Eugene J. McCarthy,Independent,0
+1980,Ronald Reagan,Republican,489
+1980,Jimmy Carter,Democratic,49
+1980,John B. Anderson,Independent,0
+1984,Ronald Reagan,Republican,525
+1984,Walter F. Mondale,Democratic,13
+1988,George H. Bush,Republican,426
+1988,Michael S. Dukakis,Democratic,111
+1992,William J. Clinton,Democratic,370
+1992,George H. Bush,Republican,168
+1992,H. Ross Perot,Independent,0
+1996,William J. Clinton,Democratic,379
+1996,Robert J. Dole,Republican,159
+1996,H. Ross Perot,Reform Party,0
+2000,George W. Bush,Republican,271
+2000,Albert A. Gore,Democratic,266
+2000,Ralph Nader,Green Party,0
+2004,George W. Bush,Republican,286
+2004,John F. Kerry,Democratic,251
+2008,Barack Obama,Democratic,365
+2008,John McCain,Republican,173
+2012,Barack Obama,Democratic,332
+2012,Mitt Romney,Republican,206
+2016,Donald Trump,Republican,306
+2016,Hillary Clinton,Democratic,232
+2020,Donald Trump,Republican,232
+2020,Joe Biden,Democratic,306
