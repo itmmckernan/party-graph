@@ -22,4 +22,4 @@ graph = px.line(df,
                 hover_name='Party',
                 hover_data=['Presidential Canidates'],
                 color_discrete_map=colormap)
-graph.write_html('test.html')
+graph.write_html('index.html')
